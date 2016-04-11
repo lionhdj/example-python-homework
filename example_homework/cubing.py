@@ -27,4 +27,5 @@ def cube(x):
     value : number
         The square of `x`.
     """
+    x**3
     pass
